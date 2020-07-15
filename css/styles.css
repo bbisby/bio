@@ -2,6 +2,11 @@ body {
   background-color: #e4e3e3;
   font-family: arial;
   color: #323232;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  min-width: 530px;
 }
 
 hr {
@@ -9,13 +14,6 @@ hr {
   width: 25%;
   border-style: dotted none none;
   border-color: grey;
-}
-
-body {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
 }
 
 h1 {color: black}
