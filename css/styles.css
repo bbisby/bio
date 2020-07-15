@@ -1,0 +1,22 @@
+body {
+  background-color: #e4e3e3;
+  font-family: arial;
+  color: #323232;
+}
+
+hr {
+  border-width: 10px;
+  width: 25%;
+  border-style: dotted none none;
+  border-color: grey;
+}
+
+body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+h1 {color: black}
+h2,h3 {color: #323232}
